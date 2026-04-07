@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey there 👋🏻
+I'm a senior Computer Science student with a strong interest in data analysis, UI/UX design, and web development.
 
-<!--
-**Jana-i004/Jana-i004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently 
+- Working on small projects to apply what I learn and strengthen my skills
+- Building a portfolio to track my progress
+- Improving my technical skills
+  
+🛠 Tools
+- Python
+- Java , C++
+- Excel, Power BI
 
-Here are some ideas to get you started:
+🌱 Learning
+- Data analysis tools (Python, Excel, Power BI)
+- UI/UX design 
+- Front end web development
+- Exploring different tools and technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to collaborating on beginner-friendly projects and learning experiences !!
+
+⭐ Always learning, always building.
