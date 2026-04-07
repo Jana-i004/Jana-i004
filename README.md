@@ -17,6 +17,6 @@ I'm a senior Computer Science student with a strong interest in data analysis, U
 - Front end web development
 - Exploring different tools and technologies
 
-Open to collaborating on beginner-friendly projects and learning experiences !!
+Open to collaborating on new projects and learning experiences !!
 
 ⭐ Always learning, always building.
